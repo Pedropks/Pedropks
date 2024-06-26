@@ -54,7 +54,7 @@
   <a href="https://br.linkedin.com/in/pedro-kowalski-schumacher-57236b271" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="pedro.k.schumacher@gmail.com" target="_blank">
+  <a href="mailto:pedro.k.schumacher@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/pedroks.pks/" target="_blank">
