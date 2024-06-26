@@ -9,7 +9,7 @@
 <p align="center"></p>
 
 <p align="left"> 💡   I'm a software developer ...<br>
-💻 I'm currently studying Software Engineering Batch at Universidade Positivo<br>
+💻 I'm currently studying Software Engineering at Universidade Positivo<br>
 🌱  I'm on track for learning more about JavaScript, TypeScipt, and React.<br>
 ✍️  In my free time, I play games, Academy and pursue writing as my hobbies.<br>
 ✉️  You can email me at pedro.k.schumacher@gmail.com. I'll try to respond as soon as possible!<br>
