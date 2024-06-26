@@ -12,7 +12,11 @@
 
 ###
 
-<p align="left"> <ul> <li>name: "Pedro Kowalski Schumacher"</li></ul>name: "Pedro Kowalski Schumacher",<br>  age: 18,<br>  status: "Available",<br>  hobbies: [<br>    "cars",<br>    "games",<br>    <br>  ],<br>  code: [<br>    <br>  ],<br>  softSkills: [<br>    "communication",<br>    "cooperative",<br>    "helpful"<br>   ]<br>}<br><br>function alwaysBeHappy() {<br>  return "Always be happy, offer help and deliver!"<br>}<br><br>function contactMe() {<br>  const phone = "+55 41 992534400"<br>  const email = "pedro.k.schumacher@gmail.com"<br>  return { phone, email }<br>}</p>
+<p align="left"> <ul> <li>Name: "Pedro Kowalski Schumacher"</li></ul><br>  
+<li>age: 18</li><br
+<li> Status: "Available"</li><br>  status: "Available",<br>  hobbies: [<br>    "cars",<br>    "games",<br>    <br>  ],<br>  code: [<br>    <br>  ],<br>  softSkills: [<br>    "communication",<br>    "cooperative",<br>    "helpful"<br>   ]<br>}<br><br>function alwaysBeHappy() {<br>  return "Always be happy, offer help and deliver!"<br>}<br><br>function contactMe() {<br>  const phone = "+55 41 992534400"<br>  const email = "pedro.k.schumacher@gmail.com"<br>  return { phone, email }<br>}</p>
+<li></li><br
+<li></li><br
 
 ###
 
