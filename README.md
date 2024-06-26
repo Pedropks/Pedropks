@@ -8,14 +8,13 @@
 
 <p align="center"></p>
 
-<p align="left"> 💡   I'm a software developer and researcher at Credit Suisse, working on production of trading applications using the .NET framework.<br>
-💻  I'm currently performing research in the field of multimodal detection of human behavioral patterns at VNIT, Nagpur.<br>
+<p align="left"> 💡   I'm a software developer ...<br>
+💻 I'm currently studying Software Engineering at Universidade Positivo<br>
 🎓 I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).<br>
-🌱  I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.<br>
-✍️  In my free time, I play guitar, football and pursue writing as my hobbies.<br>
-💬  Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!<br>
-✉️  You can email me at dhadwal1507@gmail.com. I'll try to respond as soon as possible!<br>
-📄  You can check my Resume for more details about work experience.<br>
+🌱  I'm on track for learning more about JavaScript, TypeScipt, and React.<br>
+✍️  In my free time, I play games, Academy and pursue writing as my hobbies.<br>
+✉️  You can email me at pedro.k.schumacher@gmail.com. I'll try to respond as soon as possible!<br>
+
 </p>
 
 
