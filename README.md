@@ -10,8 +10,6 @@
 
 <p align="center"></p>
 
-###
-
 <p align="left"> 💡   I'm a software developer and researcher at Credit Suisse, working on production of trading applications using the .NET framework.<br>
 💻  I'm currently performing research in the field of multimodal detection of human behavioral patterns at VNIT, Nagpur.<br>
 🎓 I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).<br>
